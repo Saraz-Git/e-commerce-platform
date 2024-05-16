@@ -75,4 +75,4 @@ Create the code needed in `server.js` to sync the Sequelize models to the Postgr
 
 * A walkthrough demo video.
 
-* The URL of the GitHub repository.
+* The URL of the GitHub repository: https://github.com/Saraz-Git/e-commerce-platform
