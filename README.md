@@ -53,6 +53,6 @@ To invoke the application enter```npm start```.The following animation shows the
 
 ## Review
 
-* A walkthrough demo video.
+* A walkthrough demo video: [video](https://www.loom.com/share/69ed24997c394324bf43cca91e258445)
 
 * The URL of the GitHub repository: https://github.com/Saraz-Git/e-commerce-platform
