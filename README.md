@@ -18,22 +18,23 @@ To clone and run this repository you'll need Git, PostgreSQL and Node.js (which 
 Fill in database name, your PostgreSQL username, and your PostgreSQL password in the environment varible file to set up the connection to database. 
 
 In command line, install dependencies 
-```npm i```
+```
+npm i```
 
 Go into the db folder
-```cd db```
+```
+cd db```
 
 Connect to PostgreSQL 
-```psql -U postgres```
+```
+psql -U postgres```
 
 Create database and exit
-```
-\i schema.sql
+```\i schema.sql
 \q
 ```
 Seed the database with test data
-```
-cd ..
+```cd ..
 npm run seed
 ```
 
@@ -45,9 +46,8 @@ To invoke the application enter```npm start```.The following animation shows the
 
 ## Features
 
-* GET
-* POST
-* DELETE
+* GET/POST routes for all categories, all products, and all tags 
+* GET/PUT/DELETE routes for a single category, a single product, and a single tag 
 
 ## Review
 
